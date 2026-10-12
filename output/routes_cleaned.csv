@@ -1,0 +1,7 @@
+route_id,route,distance_km,stop_count,corridor
+R01,Central Loop,12.5,14,Central
+R02,North Express,18.2,9,North
+R03,South Connector,15.4,12,South
+R04,East Link,10.8,11,East
+R05,West Corridor,16.1,10,West
+R06,Airport Line,22.4,8,Airport

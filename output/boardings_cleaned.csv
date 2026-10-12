@@ -1,0 +1,703 @@
+trip_id,route_id,stop_id,stop,boarding,alighting,stop_id_missing
+T0001,R03,R03_S04,South Market,7.0,10.0,False
+T0001,R03,R03_S03,Hospital,7.0,9.0,False
+T0001,R03,R03_S02,Lake Road,35.0,21.0,False
+T0001,R03,R03_S01,South Gate,24.0,20.0,False
+T0001,R03,R03_S05,Central Station,20.0,20.0,False
+T0002,R02,R02_S05,Central Station,42.0,64.0,False
+T0002,R02,R02_S02,North Market,43.0,45.0,False
+T0003,R04,R04_S04,East Market,26.0,18.0,False
+T0003,R04,R04_S02,River Bridge,24.0,22.0,False
+T0003,R04,R04_S03,Industrial Estate,19.0,0.0,False
+T0003,R04,R04_S01,East Point,35.0,17.0,False
+T0004,R01,R01_S04,Museum,29.0,8.0,False
+T0004,R01,R01_S02,City Hall,28.0,3.0,False
+T0004,R01,R01_S01,Central Station,3.0,2.0,False
+T0004,R01,R01_S05,University,11.0,7.0,False
+T0004,R01,R01_S03,Market Street,23.0,21.0,False
+T0005,R02,R02_S03,Hill View,22.0,45.0,False
+T0005,R02,R02_S01,North Park,26.0,29.0,False
+T0005,R02,R02_S05,Central Station,37.0,42.0,False
+T0006,R02,R02_S01,North Park,3.0,17.0,False
+T0006,R02,R02_S04,Tech Campus,13.0,0.0,False
+T0006,R02,R02_S02,North Market,0.0,3.0,False
+T0006,R02,R02_S05,Central Station,0.0,22.0,False
+T0006,R02,R02_S03,Hill View,30.0,17.0,False
+T0007,R06,R06_S04,Central Station,10.0,13.0,False
+T0007,R06,R06_S02,Cargo Hub,22.0,18.0,False
+T0007,R06,R06_S03,Metro Junction,4.0,11.0,False
+T0007,R06,R06_S01,Airport Terminal,29.0,25.0,False
+T0008,R05,R05_S03,West Mall,30.0,31.0,False
+T0008,R05,R05_S01,West End,42.0,26.0,False
+T0008,R05,R05_S02,Garden Road,26.0,32.0,False
+T0009,R05,R05_S03,West Mall,,8.0,False
+T0009,R05,R05_S04,Old Town,8.0,10.0,False
+T0009,R05,R05_S02,Garden Road,17.0,0.0,False
+T0010,R06,R06_S02,Cargo Hub,16.0,5.0,False
+T0010,R06,R06_S03,Metro Junction,22.0,9.0,False
+T0010,R06,R06_S04,Central Station,14.0,12.0,False
+T0010,R06,R06_S01,Airport Terminal,13.0,8.0,False
+T0011,R05,R05_S02,Garden Road,18.0,20.0,False
+T0011,R05,R05_S04,Old Town,14.0,10.0,False
+T0011,R05,R05_S03,West Mall,1.0,19.0,False
+T0011,R05,R05_S05,Central Station,36.0,1.0,False
+T0012,R06,R06_S02,Cargo Hub,18.0,13.0,False
+T0012,R06,R06_S01,Airport Terminal,11.0,26.0,False
+T0013,R02,R02_S03,Hill View,52.0,28.0,False
+T0013,R02,R02_S02,North Market,25.0,27.0,False
+T0013,R02,R02_S05,Central Station,37.0,29.0,False
+T0013,R02,R02_S01,North Park,35.0,15.0,False
+T0014,R04,R04_S04,East Market,35.0,40.0,False
+T0014,R04,R04_S05,Central Station,20.0,34.0,False
+T0015,R03,R03_S05,Central Station,6.0,7.0,False
+T0015,R03,R03_S01,South Gate,14.0,8.0,False
+T0015,R03,R03_S02,Lake Road,0.0,0.0,False
+T0015,R03,R03_S04,South Market,25.0,0.0,False
+T0015,R03,R03_S03,Hospital,16.0,0.0,False
+T0016,R01,R01_S04,Museum,78.0,66.0,False
+T0016,R01,R01_S01,Central Station,,58.0,False
+T0016,R01,R01_S03,Market Street,56.0,67.0,False
+T0017,R02,R02_S03,Hill View,35.0,45.0,False
+T0017,R02,R02_S01,North Park,40.0,46.0,False
+T0017,R02,R02_S02,North Market,52.0,29.0,False
+T0018,R01,R01_S02,City Hall,74.0,57.0,False
+T0018,R01,R01_S01,Central Station,59.0,55.0,False
+T0018,R01,R01_S04,Museum,65.0,54.0,False
+T0019,R02,R02_S05,Central Station,,13.0,False
+T0019,R02,R02_S03,Hill View,24.0,12.0,False
+T0019,R02,R02_S02,North Market,12.0,9.0,False
+T0019,R02,R02_S01,North Park,14.0,10.0,False
+T0019,R02,R02_S04,Tech Campus,1.0,28.0,False
+T0020,R04,R04_S01,East Point,15.0,30.0,False
+T0020,R04,R04_S02,River Bridge,34.0,25.0,False
+T0020,R04,R04_S04,East Market,28.0,25.0,False
+T0020,R04,R04_S03,Industrial Estate,24.0,11.0,False
+T0021,R06,R06_S01,Airport Terminal,24.0,0.0,False
+T0021,R06,R06_S03,Metro Junction,9.0,12.0,False
+T0021,R06,R06_S02,Cargo Hub,0.0,0.0,False
+T0022,R05,R05_S04,Old Town,0.0,3.0,False
+T0022,R05,R05_S03,West Mall,12.0,13.0,False
+T0022,R05,R05_S05,Central Station,21.0,9.0,False
+T0022,R05,R05_S01,West End,16.0,0.0,False
+T0022,R05,R05_S02,Garden Road,8.0,15.0,False
+T0023,R05,R05_S01,West End,32.0,22.0,False
+T0023,R05,R05_S02,Garden Road,30.0,24.0,False
+T0023,R05,R05_S03,West Mall,35.0,16.0,False
+T0024,R02,R02_S05,Central Station,34.0,18.0,False
+T0024,R02,R02_S01,North Park,13.0,7.0,False
+T0024,R02,R02_S03,Hill View,22.0,24.0,False
+T0024,R02,R02_S02,North Market,25.0,7.0,False
+T0025,R05,R05_S01,West End,5.0,5.0,False
+T0025,R05,R05_S05,Central Station,10.0,8.0,False
+T0025,R05,R05_S04,Old Town,29.0,11.0,False
+T0025,R05,R05_S03,West Mall,3.0,4.0,False
+T0026,R03,R03_S01,South Gate,29.0,36.0,False
+T0026,R03,R03_S05,Central Station,35.0,40.0,False
+T0027,R04,R04_S02,River Bridge,24.0,13.0,False
+T0027,R04,R04_S04,East Market,41.0,14.0,False
+T0027,R04,R04_S01,East Point,42.0,10.0,False
+T0028,R03,R03_S05,Central Station,55.0,56.0,False
+T0028,R03,R03_S02,Lake Road,47.0,37.0,False
+T0029,R03,R03_S02,Lake Road,11.0,16.0,False
+T0029,R03,R03_S01,South Gate,18.0,2.0,False
+T0029,R03,R03_S03,Hospital,17.0,12.0,False
+T0029,R03,R03_S04,South Market,30.0,6.0,False
+T0030,R05,R05_S03,West Mall,21.0,37.0,False
+T0030,R05,R05_S05,Central Station,22.0,26.0,False
+T0030,R05,R05_S04,Old Town,23.0,28.0,False
+T0031,R02,R02_S04,Tech Campus,40.0,1.0,False
+T0031,R02,R02_S03,Hill View,10.0,22.0,False
+T0031,R02,R02_S02,North Market,15.0,12.0,False
+T0031,R02,R02_S05,Central Station,11.0,15.0,False
+T0032,R05,R05_S02,Garden Road,21.0,25.0,False
+T0032,R05,R05_S05,Central Station,24.0,12.0,False
+T0032,R05,R05_S03,West Mall,20.0,18.0,False
+T0033,R06,R06_S02,Cargo Hub,9.0,13.0,False
+T0033,R06,R06_S03,Metro Junction,24.0,25.0,False
+T0033,R06,R06_S04,Central Station,9.0,9.0,False
+T0033,R06,R06_S01,Airport Terminal,22.0,0.0,False
+T0034,R01,R01_S02,City Hall,33.0,19.0,False
+T0034,R01,R01_S01,Central Station,28.0,15.0,False
+T0034,R01,R01_S05,University,14.0,5.0,False
+T0034,R01,R01_S03,Market Street,12.0,16.0,False
+T0034,R01,R01_S04,Museum,28.0,19.0,False
+T0035,R01,R01_S04,Museum,0.0,6.0,False
+T0035,R01,,Market Street,30.0,5.0,True
+T0035,R01,R01_S05,University,35.0,21.0,False
+T0035,R01,R01_S02,City Hall,32.0,9.0,False
+T0036,R03,R03_S05,Central Station,45.0,16.0,False
+T0036,R03,R03_S02,Lake Road,16.0,4.0,False
+T0036,R03,R03_S04,South Market,31.0,15.0,False
+T0036,R03,R03_S03,Hospital,10.0,9.0,False
+T0036,R03,,South Gate,36.0,11.0,True
+T0037,R03,R03_S01,South Gate,35.0,36.0,False
+T0037,R03,R03_S03,Hospital,40.0,36.0,False
+T0037,R03,R03_S05,Central Station,21.0,32.0,False
+T0038,R06,R06_S03,Metro Junction,19.0,12.0,False
+T0038,R06,R06_S01,Airport Terminal,0.0,10.0,False
+T0038,R06,R06_S04,Central Station,28.0,11.0,False
+T0038,R06,R06_S02,Cargo Hub,24.0,19.0,False
+T0039,R01,R01_S04,Museum,38.0,21.0,False
+T0039,R01,R01_S01,Central Station,36.0,37.0,False
+T0039,R01,R01_S05,University,42.0,23.0,False
+T0040,R04,R04_S01,East Point,19.0,18.0,False
+T0040,R04,R04_S04,East Market,4.0,12.0,False
+T0040,R04,R04_S03,Industrial Estate,34.0,6.0,False
+T0041,R06,R06_S03,Metro Junction,8.0,17.0,False
+T0041,R06,R06_S02,Cargo Hub,20.0,9.0,False
+T0041,R06,R06_S04,Central Station,16.0,3.0,False
+T0042,R02,R02_S02,North Market,63.0,46.0,False
+T0042,R02,R02_S03,Hill View,68.0,41.0,False
+T0042,R02,R02_S01,North Park,66.0,37.0,False
+T0043,R02,R02_S03,Hill View,0.0,28.0,False
+T0043,R02,R02_S05,Central Station,6.0,21.0,False
+T0043,R02,R02_S04,Tech Campus,31.0,7.0,False
+T0043,R02,R02_S01,North Park,28.0,6.0,False
+T0043,R02,R02_S02,North Market,0.0,12.0,False
+T0044,R05,,Central Station,0.0,5.0,True
+T0044,R05,R05_S04,Old Town,9.0,15.0,False
+T0044,R05,R05_S03,West Mall,12.0,17.0,False
+T0045,R02,R02_S03,Hill View,41.0,36.0,False
+T0045,R02,R02_S01,North Park,17.0,23.0,False
+T0045,R02,R02_S05,Central Station,27.0,22.0,False
+T0045,R02,R02_S02,North Market,40.0,25.0,False
+T0046,R04,R04_S03,Industrial Estate,49.0,38.0,False
+T0046,R04,R04_S02,River Bridge,28.0,33.0,False
+T0046,R04,R04_S05,Central Station,26.0,37.0,False
+T0047,R06,R06_S02,Cargo Hub,34.0,19.0,False
+T0047,R06,R06_S03,Metro Junction,23.0,33.0,False
+T0047,R06,R06_S04,Central Station,39.0,20.0,False
+T0047,R06,R06_S01,Airport Terminal,21.0,21.0,False
+T0048,R01,R01_S05,University,41.0,24.0,False
+T0048,R01,R01_S02,City Hall,30.0,31.0,False
+T0048,R01,R01_S03,Market Street,27.0,22.0,False
+T0048,R01,R01_S04,Museum,25.0,30.0,False
+T0049,R06,R06_S03,Metro Junction,28.0,27.0,False
+T0049,R06,R06_S04,Central Station,35.0,34.0,False
+T0050,R04,R04_S01,East Point,20.0,2.0,False
+T0050,R04,R04_S02,River Bridge,12.0,7.0,False
+T0050,R04,R04_S04,East Market,7.0,21.0,False
+T0050,R04,R04_S05,Central Station,3.0,20.0,False
+T0050,R04,R04_S03,Industrial Estate,0.0,17.0,False
+T0051,R06,R06_S03,Metro Junction,17.0,25.0,False
+T0051,R06,R06_S01,Airport Terminal,35.0,40.0,False
+T0051,R06,R06_S04,Central Station,17.0,21.0,False
+T0051,R06,R06_S02,Cargo Hub,12.0,7.0,False
+T0052,R05,R05_S05,Central Station,27.0,14.0,False
+T0052,R05,R05_S02,Garden Road,16.0,10.0,False
+T0052,R05,R05_S04,Old Town,19.0,9.0,False
+T0052,R05,R05_S03,West Mall,18.0,10.0,False
+T0052,R05,R05_S01,West End,21.0,23.0,False
+T0053,R05,R05_S01,West End,14.0,23.0,False
+T0053,R05,R05_S05,Central Station,19.0,10.0,False
+T0054,R04,R04_S05,Central Station,31.0,3.0,False
+T0054,R04,R04_S03,Industrial Estate,32.0,23.0,False
+T0055,R06,R06_S01,Airport Terminal,9.0,2.0,False
+T0055,R06,R06_S04,Central Station,26.0,4.0,False
+T0056,R01,R01_S02,City Hall,42.0,41.0,False
+T0056,R01,R01_S01,Central Station,34.0,44.0,False
+T0056,R01,R01_S03,Market Street,45.0,34.0,False
+T0057,R04,R04_S05,Central Station,0.0,0.0,False
+T0057,R04,R04_S01,East Point,6.0,0.0,False
+T0057,R04,R04_S02,River Bridge,0.0,3.0,False
+T0057,R04,,Industrial Estate,0.0,0.0,True
+T0057,R04,R04_S04,East Market,0.0,15.0,False
+T0058,R01,R01_S04,Museum,17.0,38.0,False
+T0058,R01,R01_S05,University,24.0,30.0,False
+T0058,R01,R01_S03,Market Street,18.0,31.0,False
+T0058,R01,R01_S02,City Hall,29.0,21.0,False
+T0059,R02,R02_S01,North Park,18.0,21.0,False
+T0059,R02,R02_S04,Tech Campus,25.0,16.0,False
+T0059,R02,R02_S03,Hill View,26.0,5.0,False
+T0059,R02,R02_S05,Central Station,29.0,15.0,False
+T0060,R04,R04_S03,Industrial Estate,11.0,0.0,False
+T0060,R04,R04_S01,East Point,10.0,0.0,False
+T0061,R04,R04_S05,Central Station,0.0,8.0,False
+T0061,R04,R04_S02,River Bridge,20.0,4.0,False
+T0061,R04,R04_S04,East Market,11.0,18.0,False
+T0061,R04,R04_S03,Industrial Estate,20.0,0.0,False
+T0061,R04,R04_S01,East Point,,7.0,False
+T0062,R01,R01_S03,Market Street,84.0,86.0,False
+T0062,R01,R01_S02,City Hall,95.0,60.0,False
+T0063,R05,R05_S01,West End,22.0,26.0,False
+T0063,R05,R05_S02,Garden Road,28.0,33.0,False
+T0064,R06,,Airport Terminal,21.0,9.0,True
+T0064,R06,R06_S04,Central Station,13.0,24.0,False
+T0064,R06,R06_S02,Cargo Hub,0.0,19.0,False
+T0064,R06,R06_S03,Metro Junction,26.0,12.0,False
+T0065,R05,R05_S04,Old Town,,2.0,False
+T0065,R05,R05_S02,Garden Road,11.0,23.0,False
+T0065,R05,R05_S03,West Mall,5.0,16.0,False
+T0066,R06,R06_S03,Metro Junction,28.0,43.0,False
+T0066,R06,R06_S04,Central Station,23.0,27.0,False
+T0067,R01,R01_S04,Museum,27.0,30.0,False
+T0067,R01,R01_S02,City Hall,5.0,12.0,False
+T0067,R01,R01_S03,Market Street,33.0,16.0,False
+T0067,R01,R01_S01,Central Station,41.0,15.0,False
+T0068,R06,R06_S03,Metro Junction,27.0,5.0,False
+T0068,R06,R06_S02,Cargo Hub,22.0,28.0,False
+T0068,R06,R06_S04,Central Station,,12.0,False
+T0069,R04,R04_S05,Central Station,30.0,14.0,False
+T0069,R04,R04_S03,Industrial Estate,44.0,24.0,False
+T0070,R03,R03_S01,South Gate,12.0,30.0,False
+T0070,R03,R03_S03,Hospital,24.0,14.0,False
+T0070,R03,R03_S04,South Market,18.0,10.0,False
+T0070,R03,R03_S05,Central Station,15.0,13.0,False
+T0070,R03,R03_S02,Lake Road,28.0,8.0,False
+T0071,R06,R06_S03,Metro Junction,5.0,0.0,False
+T0071,R06,R06_S04,Central Station,0.0,15.0,False
+T0071,R06,R06_S01,Airport Terminal,0.0,3.0,False
+T0071,R06,R06_S02,Cargo Hub,0.0,10.0,False
+T0072,R04,R04_S05,Central Station,,23.0,False
+T0072,R04,R04_S04,East Market,48.0,33.0,False
+T0072,R04,R04_S01,East Point,34.0,33.0,False
+T0073,R04,R04_S03,Industrial Estate,7.0,9.0,False
+T0073,R04,R04_S02,River Bridge,1.0,8.0,False
+T0073,R04,R04_S01,East Point,2.0,15.0,False
+T0073,R04,R04_S04,East Market,18.0,13.0,False
+T0073,R04,R04_S05,Central Station,13.0,21.0,False
+T0074,R01,R01_S05,University,56.0,43.0,False
+T0074,R01,R01_S03,Market Street,31.0,37.0,False
+T0074,R01,R01_S01,Central Station,42.0,53.0,False
+T0074,R01,R01_S02,City Hall,47.0,38.0,False
+T0075,R01,R01_S05,University,77.0,62.0,False
+T0075,R01,R01_S02,City Hall,84.0,73.0,False
+T0075,R01,R01_S04,Museum,63.0,51.0,False
+T0076,R02,R02_S05,Central Station,35.0,0.0,False
+T0076,R02,R02_S02,North Market,30.0,1.0,False
+T0076,R02,R02_S03,Hill View,24.0,11.0,False
+T0076,R02,R02_S04,Tech Campus,11.0,22.0,False
+T0076,R02,R02_S01,North Park,7.0,19.0,False
+T0077,R01,R01_S05,University,28.0,34.0,False
+T0077,R01,R01_S03,Market Street,48.0,43.0,False
+T0077,R01,R01_S04,Museum,40.0,42.0,False
+T0077,R01,R01_S02,City Hall,39.0,31.0,False
+T0078,R01,R01_S01,Central Station,80.0,84.0,False
+T0078,R01,R01_S02,City Hall,75.0,80.0,False
+T0079,R05,R05_S05,Central Station,16.0,28.0,False
+T0079,R05,R05_S01,West End,29.0,9.0,False
+T0079,R05,R05_S04,Old Town,0.0,4.0,False
+T0080,R02,R02_S03,Hill View,40.0,27.0,False
+T0080,R02,R02_S02,North Market,40.0,32.0,False
+T0080,R02,R02_S04,Tech Campus,31.0,37.0,False
+T0081,R01,R01_S02,City Hall,38.0,21.0,False
+T0081,R01,R01_S03,Market Street,32.0,19.0,False
+T0082,R01,R01_S01,Central Station,24.0,24.0,False
+T0082,R01,R01_S03,Market Street,39.0,34.0,False
+T0082,R01,R01_S04,Museum,44.0,38.0,False
+T0082,R01,R01_S02,City Hall,1.0,39.0,False
+T0083,R03,R03_S01,South Gate,28.0,16.0,False
+T0083,R03,R03_S04,South Market,27.0,15.0,False
+T0083,R03,R03_S05,Central Station,0.0,27.0,False
+T0084,R04,R04_S02,River Bridge,25.0,8.0,False
+T0084,R04,R04_S01,East Point,20.0,15.0,False
+T0084,R04,R04_S03,Industrial Estate,32.0,18.0,False
+T0084,R04,R04_S05,Central Station,14.0,22.0,False
+T0085,R03,R03_S05,Central Station,6.0,24.0,False
+T0085,R03,R03_S03,Hospital,21.0,25.0,False
+T0085,R03,R03_S02,Lake Road,2.0,11.0,False
+T0086,R02,R02_S01,North Park,13.0,11.0,False
+T0086,R02,R02_S02,North Market,16.0,19.0,False
+T0086,R02,R02_S05,Central Station,15.0,18.0,False
+T0087,R03,R03_S03,Hospital,40.0,10.0,False
+T0087,R03,R03_S04,South Market,28.0,17.0,False
+T0087,R03,R03_S02,Lake Road,22.0,12.0,False
+T0087,R03,R03_S01,South Gate,18.0,23.0,False
+T0088,R03,R03_S01,South Gate,36.0,29.0,False
+T0088,R03,R03_S03,Hospital,17.0,12.0,False
+T0088,R03,R03_S02,Lake Road,45.0,25.0,False
+T0089,R03,,Lake Road,4.0,8.0,True
+T0089,R03,R03_S05,Central Station,16.0,19.0,False
+T0089,R03,R03_S04,South Market,21.0,4.0,False
+T0090,R01,R01_S05,University,92.0,65.0,False
+T0090,R01,R01_S02,City Hall,65.0,53.0,False
+T0091,R04,R04_S04,East Market,52.0,40.0,False
+T0091,R04,R04_S01,East Point,53.0,39.0,False
+T0092,R06,R06_S04,Central Station,12.0,0.0,False
+T0092,R06,R06_S02,Cargo Hub,3.0,5.0,False
+T0092,R06,R06_S03,Metro Junction,27.0,2.0,False
+T0092,R06,R06_S01,Airport Terminal,31.0,11.0,False
+T0093,R03,R03_S05,Central Station,20.0,0.0,False
+T0093,R03,R03_S03,Hospital,1.0,0.0,False
+T0093,R03,R03_S01,South Gate,15.0,6.0,False
+T0093,R03,R03_S02,Lake Road,8.0,9.0,False
+T0094,R01,R01_S04,Museum,16.0,27.0,False
+T0094,R01,R01_S05,University,23.0,44.0,False
+T0094,R01,R01_S01,Central Station,34.0,28.0,False
+T0094,R01,R01_S03,Market Street,35.0,28.0,False
+T0094,R01,R01_S02,City Hall,27.0,27.0,False
+T0095,R04,R04_S03,Industrial Estate,29.0,14.0,False
+T0095,R04,R04_S01,East Point,26.0,6.0,False
+T0095,R04,R04_S02,River Bridge,17.0,4.0,False
+T0096,R02,R02_S02,North Market,41.0,61.0,False
+T0096,R02,R02_S01,North Park,25.0,44.0,False
+T0096,R02,R02_S05,Central Station,45.0,38.0,False
+T0097,R03,R03_S05,Central Station,45.0,32.0,False
+T0097,R03,R03_S02,Lake Road,50.0,37.0,False
+T0098,R01,R01_S02,City Hall,69.0,62.0,False
+T0098,R01,R01_S03,Market Street,73.0,69.0,False
+T0099,R05,R05_S03,West Mall,29.0,22.0,False
+T0099,R05,R05_S01,West End,12.0,13.0,False
+T0099,R05,R05_S02,Garden Road,28.0,14.0,False
+T0099,R05,R05_S05,Central Station,5.0,18.0,False
+T0099,R05,R05_S04,Old Town,19.0,2.0,False
+T0100,R04,R04_S03,Industrial Estate,1.0,12.0,False
+T0100,R04,R04_S04,East Market,31.0,27.0,False
+T0100,R04,R04_S05,Central Station,11.0,20.0,False
+T0100,R04,R04_S02,River Bridge,14.0,25.0,False
+T0101,R05,R05_S05,Central Station,4.0,9.0,False
+T0101,R05,R05_S04,Old Town,7.0,13.0,False
+T0101,R05,R05_S01,West End,16.0,10.0,False
+T0101,R05,R05_S03,West Mall,2.0,2.0,False
+T0101,R05,R05_S02,Garden Road,9.0,6.0,False
+T0102,R01,R01_S03,Market Street,3.0,20.0,False
+T0102,R01,R01_S04,Museum,19.0,27.0,False
+T0102,R01,R01_S01,Central Station,38.0,29.0,False
+T0102,R01,R01_S02,City Hall,46.0,31.0,False
+T0102,R01,R01_S05,University,35.0,32.0,False
+T0103,R02,R02_S05,Central Station,27.0,32.0,False
+T0103,R02,R02_S01,North Park,39.0,32.0,False
+T0104,R06,R06_S02,Cargo Hub,0.0,10.0,False
+T0104,R06,R06_S04,Central Station,3.0,8.0,False
+T0104,R06,R06_S03,Metro Junction,15.0,4.0,False
+T0105,R01,R01_S03,Market Street,20.0,33.0,False
+T0105,R01,R01_S01,Central Station,19.0,26.0,False
+T0105,R01,R01_S04,Museum,25.0,14.0,False
+T0105,R01,R01_S02,City Hall,19.0,18.0,False
+T0106,R02,R02_S04,Tech Campus,18.0,7.0,False
+T0106,R02,R02_S02,North Market,13.0,12.0,False
+T0106,R02,R02_S05,Central Station,13.0,18.0,False
+T0107,R05,R05_S05,Central Station,22.0,15.0,False
+T0107,R05,R05_S04,Old Town,5.0,1.0,False
+T0107,R05,R05_S03,West Mall,6.0,12.0,False
+T0107,R05,R05_S01,West End,6.0,0.0,False
+T0107,R05,R05_S02,Garden Road,0.0,5.0,False
+T0108,R04,R04_S01,East Point,20.0,24.0,False
+T0108,R04,R04_S05,Central Station,30.0,26.0,False
+T0108,R04,R04_S03,Industrial Estate,21.0,7.0,False
+T0109,R02,R02_S01,North Park,28.0,1.0,False
+T0109,R02,,Central Station,27.0,5.0,True
+T0109,R02,R02_S04,Tech Campus,20.0,36.0,False
+T0109,R02,R02_S03,Hill View,15.0,8.0,False
+T0109,R02,R02_S02,North Market,19.0,9.0,False
+T0110,R04,R04_S02,River Bridge,15.0,14.0,False
+T0110,R04,R04_S01,East Point,22.0,15.0,False
+T0110,R04,R04_S03,Industrial Estate,14.0,5.0,False
+T0111,R06,,Metro Junction,15.0,0.0,True
+T0111,R06,R06_S02,Cargo Hub,35.0,17.0,False
+T0111,R06,R06_S01,Airport Terminal,16.0,18.0,False
+T0111,R06,R06_S04,Central Station,28.0,17.0,False
+T0112,R03,R03_S05,Central Station,19.0,17.0,False
+T0112,R03,R03_S02,Lake Road,11.0,17.0,False
+T0112,R03,R03_S04,South Market,22.0,13.0,False
+T0113,R04,R04_S03,Industrial Estate,27.0,30.0,False
+T0113,R04,R04_S04,East Market,26.0,31.0,False
+T0114,R01,,University,68.0,64.0,True
+T0114,R01,R01_S04,Museum,76.0,67.0,False
+T0115,R02,R02_S05,Central Station,7.0,17.0,False
+T0115,R02,R02_S01,North Park,6.0,7.0,False
+T0115,R02,R02_S03,Hill View,7.0,38.0,False
+T0116,R02,R02_S04,Tech Campus,9.0,0.0,False
+T0116,R02,R02_S05,Central Station,3.0,10.0,False
+T0116,R02,R02_S03,Hill View,30.0,5.0,False
+T0116,R02,R02_S02,North Market,17.0,0.0,False
+T0117,R02,R02_S01,North Park,16.0,29.0,False
+T0117,R02,R02_S05,Central Station,10.0,25.0,False
+T0117,R02,R02_S03,Hill View,25.0,17.0,False
+T0118,R02,R02_S02,North Market,70.0,72.0,False
+T0118,R02,R02_S01,North Park,62.0,45.0,False
+T0119,R01,R01_S01,Central Station,48.0,36.0,False
+T0119,R01,R01_S03,Market Street,40.0,27.0,False
+T0120,R01,R01_S02,City Hall,54.0,15.0,False
+T0120,R01,R01_S03,Market Street,38.0,26.0,False
+T0120,R01,R01_S05,University,18.0,15.0,False
+T0120,R01,R01_S04,Museum,14.0,28.0,False
+T0121,R03,R03_S05,Central Station,11.0,39.0,False
+T0121,R03,R03_S02,Lake Road,36.0,30.0,False
+T0121,R03,R03_S03,Hospital,13.0,14.0,False
+T0121,R03,R03_S04,South Market,19.0,18.0,False
+T0122,R01,R01_S05,University,72.0,60.0,False
+T0122,R01,R01_S04,Museum,67.0,54.0,False
+T0123,R01,R01_S01,Central Station,26.0,24.0,False
+T0123,R01,R01_S03,Market Street,30.0,20.0,False
+T0123,R01,R01_S05,University,31.0,21.0,False
+T0123,R01,R01_S04,Museum,20.0,15.0,False
+T0123,R01,R01_S02,City Hall,20.0,9.0,False
+T0124,R03,R03_S01,South Gate,30.0,25.0,False
+T0124,R03,R03_S04,South Market,32.0,20.0,False
+T0124,R03,R03_S05,Central Station,11.0,20.0,False
+T0125,R05,R05_S02,Garden Road,15.0,0.0,False
+T0125,R05,R05_S01,West End,11.0,1.0,False
+T0126,R05,R05_S01,West End,23.0,18.0,False
+T0126,R05,R05_S02,Garden Road,30.0,22.0,False
+T0126,R05,R05_S05,Central Station,18.0,22.0,False
+T0126,R05,R05_S04,Old Town,33.0,25.0,False
+T0127,R04,R04_S01,East Point,48.0,68.0,False
+T0127,R04,R04_S02,River Bridge,54.0,56.0,False
+T0128,R02,R02_S05,Central Station,12.0,23.0,False
+T0128,R02,R02_S03,Hill View,23.0,6.0,False
+T0128,R02,R02_S02,North Market,11.0,0.0,False
+T0128,R02,R02_S01,North Park,16.0,5.0,False
+T0128,R02,R02_S04,Tech Campus,8.0,3.0,False
+T0129,R02,R02_S04,Tech Campus,44.0,40.0,False
+T0129,R02,R02_S05,Central Station,60.0,42.0,False
+T0129,R02,R02_S02,North Market,60.0,36.0,False
+T0130,R02,R02_S05,Central Station,16.0,5.0,False
+T0130,R02,R02_S03,Hill View,5.0,12.0,False
+T0130,R02,R02_S04,Tech Campus,8.0,8.0,False
+T0130,R02,R02_S01,North Park,22.0,15.0,False
+T0130,R02,R02_S02,North Market,0.0,26.0,False
+T0131,R05,R05_S01,West End,10.0,35.0,False
+T0131,R05,R05_S05,Central Station,14.0,25.0,False
+T0131,R05,R05_S03,West Mall,10.0,19.0,False
+T0132,R03,R03_S02,Lake Road,82.0,76.0,False
+T0132,R03,R03_S01,South Gate,86.0,66.0,False
+T0133,R03,R03_S05,Central Station,24.0,16.0,False
+T0133,R03,R03_S04,South Market,18.0,14.0,False
+T0133,R03,R03_S02,Lake Road,12.0,22.0,False
+T0133,R03,R03_S01,South Gate,22.0,11.0,False
+T0133,R03,R03_S03,Hospital,12.0,23.0,False
+T0134,R03,R03_S01,South Gate,40.0,52.0,False
+T0134,R03,R03_S05,Central Station,40.0,46.0,False
+T0135,R05,R05_S01,West End,23.0,9.0,False
+T0135,R05,R05_S03,West Mall,15.0,11.0,False
+T0135,R05,R05_S05,Central Station,1.0,16.0,False
+T0136,R03,R03_S03,Hospital,5.0,11.0,False
+T0136,R03,R03_S04,South Market,9.0,0.0,False
+T0136,R03,R03_S01,South Gate,12.0,9.0,False
+T0136,R03,R03_S05,Central Station,17.0,12.0,False
+T0137,R04,R04_S03,Industrial Estate,30.0,23.0,False
+T0137,R04,R04_S05,Central Station,35.0,19.0,False
+T0137,R04,R04_S02,River Bridge,15.0,28.0,False
+T0137,R04,R04_S01,East Point,4.0,30.0,False
+T0138,R02,R02_S03,Hill View,40.0,45.0,False
+T0138,R02,R02_S05,Central Station,50.0,54.0,False
+T0139,R03,R03_S01,South Gate,53.0,50.0,False
+T0139,R03,R03_S03,Hospital,,43.0,False
+T0139,R03,R03_S05,Central Station,35.0,46.0,False
+T0140,R04,R04_S05,Central Station,40.0,37.0,False
+T0140,R04,R04_S01,East Point,31.0,27.0,False
+T0141,R02,R02_S03,Hill View,40.0,22.0,False
+T0141,R02,R02_S05,Central Station,16.0,10.0,False
+T0141,R02,R02_S04,Tech Campus,25.0,11.0,False
+T0141,R02,R02_S01,North Park,14.0,13.0,False
+T0142,R02,,Tech Campus,22.0,32.0,True
+T0142,R02,R02_S05,Central Station,43.0,19.0,False
+T0142,R02,R02_S03,Hill View,38.0,24.0,False
+T0143,R04,R04_S02,River Bridge,37.0,22.0,False
+T0143,R04,R04_S05,Central Station,28.0,5.0,False
+T0143,R04,R04_S04,East Market,15.0,16.0,False
+T0143,R04,R04_S01,East Point,17.0,21.0,False
+T0143,R04,R04_S03,Industrial Estate,2.0,18.0,False
+T0144,R06,R06_S04,Central Station,1.0,7.0,False
+T0144,R06,R06_S02,Cargo Hub,26.0,7.0,False
+T0144,R06,R06_S03,Metro Junction,7.0,16.0,False
+T0144,R06,R06_S01,Airport Terminal,,13.0,False
+T0145,R05,R05_S04,Old Town,0.0,12.0,False
+T0145,R05,R05_S05,Central Station,8.0,12.0,False
+T0145,R05,R05_S03,West Mall,0.0,22.0,False
+T0146,R01,R01_S04,Museum,21.0,34.0,False
+T0146,R01,R01_S03,Market Street,22.0,31.0,False
+T0146,R01,R01_S02,City Hall,28.0,15.0,False
+T0146,R01,R01_S05,University,31.0,16.0,False
+T0146,R01,R01_S01,Central Station,4.0,26.0,False
+T0147,R06,R06_S03,Metro Junction,0.0,1.0,False
+T0147,R06,R06_S02,Cargo Hub,17.0,9.0,False
+T0147,R06,R06_S04,Central Station,28.0,6.0,False
+T0147,R06,,Airport Terminal,6.0,5.0,True
+T0148,R02,R02_S03,Hill View,47.0,34.0,False
+T0148,R02,R02_S04,Tech Campus,31.0,22.0,False
+T0148,R02,R02_S01,North Park,46.0,33.0,False
+T0148,R02,R02_S05,Central Station,28.0,23.0,False
+T0148,R02,R02_S02,North Market,23.0,29.0,False
+T0149,R02,R02_S05,Central Station,15.0,0.0,False
+T0149,R02,R02_S04,Tech Campus,16.0,2.0,False
+T0149,R02,R02_S02,North Market,29.0,2.0,False
+T0149,R02,R02_S03,Hill View,0.0,0.0,False
+T0149,R02,R02_S01,North Park,11.0,0.0,False
+T0150,R01,R01_S04,Museum,16.0,29.0,False
+T0150,R01,R01_S02,City Hall,26.0,8.0,False
+T0150,R01,R01_S01,Central Station,,18.0,False
+T0150,R01,R01_S03,Market Street,9.0,11.0,False
+T0150,R01,R01_S05,University,1.0,20.0,False
+T0151,R04,R04_S05,Central Station,10.0,1.0,False
+T0151,R04,R04_S04,East Market,4.0,3.0,False
+T0151,R04,R04_S01,East Point,8.0,1.0,False
+T0151,R04,R04_S03,Industrial Estate,15.0,4.0,False
+T0151,R04,R04_S02,River Bridge,8.0,13.0,False
+T0152,R01,R01_S05,University,50.0,44.0,False
+T0152,R01,R01_S01,Central Station,50.0,44.0,False
+T0152,R01,R01_S03,Market Street,53.0,49.0,False
+T0153,R06,R06_S04,Central Station,13.0,16.0,False
+T0153,R06,R06_S03,Metro Junction,17.0,16.0,False
+T0153,R06,R06_S01,Airport Terminal,2.0,10.0,False
+T0153,R06,R06_S02,Cargo Hub,16.0,19.0,False
+T0154,R03,R03_S04,South Market,21.0,19.0,False
+T0154,R03,R03_S05,Central Station,19.0,15.0,False
+T0154,R03,R03_S03,Hospital,5.0,17.0,False
+T0154,R03,R03_S02,Lake Road,8.0,25.0,False
+T0155,R01,R01_S01,Central Station,22.0,5.0,False
+T0155,R01,R01_S03,Market Street,31.0,18.0,False
+T0155,R01,R01_S05,University,26.0,12.0,False
+T0155,R01,R01_S04,Museum,6.0,12.0,False
+T0155,R01,R01_S02,City Hall,10.0,13.0,False
+T0156,R06,R06_S02,Cargo Hub,13.0,12.0,False
+T0156,R06,R06_S03,Metro Junction,31.0,20.0,False
+T0156,R06,R06_S04,Central Station,38.0,26.0,False
+T0157,R04,R04_S03,Industrial Estate,17.0,0.0,False
+T0157,R04,R04_S05,Central Station,20.0,22.0,False
+T0157,R04,R04_S04,East Market,2.0,12.0,False
+T0158,R03,R03_S03,Hospital,37.0,22.0,False
+T0158,R03,R03_S05,Central Station,40.0,44.0,False
+T0159,R06,R06_S02,Cargo Hub,1.0,16.0,False
+T0159,R06,R06_S03,Metro Junction,,6.0,False
+T0159,R06,R06_S01,Airport Terminal,4.0,0.0,False
+T0160,R02,R02_S03,Hill View,14.0,0.0,False
+T0160,R02,R02_S01,North Park,29.0,27.0,False
+T0160,R02,R02_S05,Central Station,23.0,11.0,False
+T0160,R02,R02_S04,Tech Campus,17.0,13.0,False
+T0160,R02,R02_S02,North Market,7.0,22.0,False
+T0161,R01,R01_S05,University,23.0,2.0,False
+T0161,R01,R01_S04,Museum,11.0,28.0,False
+T0161,R01,R01_S03,Market Street,42.0,10.0,False
+T0161,R01,R01_S01,Central Station,10.0,25.0,False
+T0161,R01,R01_S02,City Hall,10.0,23.0,False
+T0162,R02,R02_S03,Hill View,22.0,32.0,False
+T0162,R02,R02_S01,North Park,20.0,38.0,False
+T0162,R02,R02_S02,North Market,18.0,22.0,False
+T0162,R02,R02_S04,Tech Campus,15.0,9.0,False
+T0162,R02,R02_S05,Central Station,28.0,27.0,False
+T0163,R02,R02_S01,North Park,21.0,23.0,False
+T0163,R02,R02_S03,Hill View,20.0,29.0,False
+T0163,R02,R02_S05,Central Station,30.0,43.0,False
+T0164,R02,R02_S03,Hill View,20.0,22.0,False
+T0164,R02,R02_S04,Tech Campus,21.0,23.0,False
+T0164,R02,R02_S01,North Park,19.0,2.0,False
+T0164,R02,,North Market,8.0,10.0,True
+T0164,R02,R02_S05,Central Station,16.0,0.0,False
+T0165,R05,R05_S01,West End,13.0,17.0,False
+T0165,R05,R05_S05,Central Station,22.0,16.0,False
+T0165,R05,R05_S04,Old Town,1.0,28.0,False
+T0166,R02,R02_S03,Hill View,12.0,23.0,False
+T0166,R02,R02_S04,Tech Campus,21.0,24.0,False
+T0166,R02,R02_S02,North Market,18.0,29.0,False
+T0166,R02,R02_S01,North Park,3.0,14.0,False
+T0166,R02,R02_S05,Central Station,7.0,17.0,False
+T0167,R01,R01_S03,Market Street,46.0,49.0,False
+T0167,R01,R01_S01,Central Station,51.0,47.0,False
+T0167,R01,R01_S02,City Hall,43.0,39.0,False
+T0167,R01,R01_S04,Museum,64.0,51.0,False
+T0168,R06,R06_S01,Airport Terminal,36.0,39.0,False
+T0168,R06,R06_S02,Cargo Hub,33.0,20.0,False
+T0169,R05,R05_S04,Old Town,34.0,37.0,False
+T0169,R05,R05_S03,West Mall,37.0,17.0,False
+T0169,R05,R05_S01,West End,29.0,18.0,False
+T0170,R03,R03_S03,Hospital,10.0,10.0,False
+T0170,R03,R03_S05,Central Station,7.0,0.0,False
+T0170,R03,R03_S02,Lake Road,0.0,7.0,False
+T0170,R03,R03_S01,South Gate,4.0,4.0,False
+T0170,R03,R03_S04,South Market,6.0,6.0,False
+T0171,R05,R05_S03,West Mall,7.0,16.0,False
+T0171,R05,R05_S01,West End,0.0,13.0,False
+T0171,R05,R05_S02,Garden Road,15.0,2.0,False
+T0171,R05,R05_S05,Central Station,14.0,13.0,False
+T0171,R05,R05_S04,Old Town,32.0,10.0,False
+T0172,R04,R04_S01,East Point,0.0,19.0,False
+T0172,R04,R04_S05,Central Station,15.0,19.0,False
+T0172,R04,R04_S04,East Market,8.0,22.0,False
+T0172,R04,R04_S02,River Bridge,6.0,10.0,False
+T0172,R04,R04_S03,Industrial Estate,11.0,15.0,False
+T0173,R01,R01_S04,Museum,35.0,13.0,False
+T0173,R01,R01_S03,Market Street,30.0,12.0,False
+T0173,R01,R01_S01,Central Station,11.0,29.0,False
+T0173,R01,R01_S05,University,28.0,14.0,False
+T0174,R05,R05_S02,Garden Road,0.0,14.0,False
+T0174,R05,R05_S05,Central Station,22.0,31.0,False
+T0174,R05,R05_S01,West End,13.0,18.0,False
+T0174,R05,R05_S03,West Mall,18.0,17.0,False
+T0175,R01,R01_S04,Museum,4.0,36.0,False
+T0175,R01,R01_S05,University,33.0,33.0,False
+T0175,R01,R01_S02,City Hall,30.0,28.0,False
+T0175,R01,R01_S01,Central Station,32.0,23.0,False
+T0176,R06,R06_S02,Cargo Hub,5.0,20.0,False
+T0176,R06,R06_S03,Metro Junction,12.0,0.0,False
+T0176,R06,R06_S01,Airport Terminal,15.0,0.0,False
+T0176,R06,R06_S04,Central Station,0.0,3.0,False
+T0177,R01,R01_S01,Central Station,20.0,4.0,False
+T0177,R01,R01_S04,Museum,13.0,17.0,False
+T0177,R01,R01_S02,City Hall,13.0,15.0,False
+T0177,R01,R01_S05,University,20.0,30.0,False
+T0177,R01,R01_S03,Market Street,5.0,13.0,False
+T0178,R04,R04_S04,East Market,21.0,18.0,False
+T0178,R04,R04_S02,River Bridge,42.0,32.0,False
+T0178,R04,R04_S01,East Point,23.0,9.0,False
+T0179,R02,R02_S03,Hill View,36.0,33.0,False
+T0179,R02,R02_S04,Tech Campus,35.0,19.0,False
+T0179,R02,R02_S02,North Market,43.0,30.0,False
+T0180,R04,R04_S01,East Point,24.0,22.0,False
+T0180,R04,R04_S03,Industrial Estate,17.0,18.0,False
+T0180,R04,R04_S02,River Bridge,6.0,16.0,False
+T0181,R05,R05_S05,Central Station,26.0,34.0,False
+T0181,R05,R05_S01,West End,60.0,26.0,False
+T0182,R03,R03_S05,Central Station,42.0,34.0,False
+T0182,R03,R03_S01,South Gate,31.0,31.0,False
+T0182,R03,R03_S03,Hospital,30.0,20.0,False
+T0183,R05,R05_S04,Old Town,3.0,6.0,False
+T0183,R05,R05_S02,Garden Road,15.0,4.0,False
+T0183,R05,R05_S03,West Mall,2.0,29.0,False
+T0184,R01,R01_S03,Market Street,32.0,29.0,False
+T0184,R01,R01_S05,University,36.0,46.0,False
+T0184,R01,R01_S04,Museum,63.0,42.0,False
+T0185,R05,R05_S02,Garden Road,15.0,25.0,False
+T0185,R05,R05_S04,Old Town,26.0,40.0,False
+T0185,R05,R05_S03,West Mall,21.0,36.0,False
+T0185,R05,,Central Station,23.0,19.0,True
+T0186,R06,R06_S02,Cargo Hub,35.0,21.0,False
+T0186,R06,R06_S01,Airport Terminal,20.0,22.0,False
+T0187,R04,R04_S02,River Bridge,27.0,16.0,False
+T0187,R04,R04_S05,Central Station,48.0,44.0,False
+T0188,R01,R01_S05,University,38.0,40.0,False
+T0188,R01,R01_S01,Central Station,41.0,25.0,False
+T0188,R01,R01_S04,Museum,48.0,40.0,False
+T0188,R01,R01_S02,City Hall,36.0,35.0,False
+T0189,R01,R01_S05,University,42.0,43.0,False
+T0189,R01,R01_S02,City Hall,38.0,23.0,False
+T0189,R01,R01_S04,Museum,20.0,11.0,False
+T0189,R01,R01_S01,Central Station,40.0,38.0,False
+T0189,R01,R01_S03,Market Street,42.0,23.0,False
+T0190,R03,R03_S02,Lake Road,36.0,56.0,False
+T0190,R03,R03_S04,South Market,49.0,26.0,False
+T0191,R02,R02_S03,Hill View,26.0,11.0,False
+T0191,R02,R02_S01,North Park,41.0,23.0,False
+T0192,R05,R05_S01,West End,26.0,0.0,False
+T0192,R05,,West Mall,12.0,7.0,True
+T0192,R05,R05_S02,Garden Road,8.0,11.0,False
+T0192,R05,R05_S04,Old Town,10.0,0.0,False
+T0192,R05,R05_S05,Central Station,10.0,19.0,False
+T0193,R03,R03_S05,Central Station,18.0,7.0,False
+T0193,R03,R03_S04,South Market,18.0,7.0,False
+T0193,R03,R03_S03,Hospital,13.0,6.0,False
+T0193,R03,R03_S01,South Gate,5.0,19.0,False
+T0194,R05,R05_S01,West End,29.0,2.0,False
+T0194,R05,R05_S04,Old Town,22.0,27.0,False
+T0195,R02,R02_S03,Hill View,26.0,13.0,False
+T0195,R02,R02_S05,Central Station,38.0,39.0,False
+T0195,R02,R02_S01,North Park,22.0,17.0,False
+T0195,R02,R02_S04,Tech Campus,15.0,17.0,False
+T0196,R05,R05_S03,West Mall,10.0,16.0,False
+T0196,R05,R05_S04,Old Town,0.0,0.0,False
+T0196,R05,R05_S05,Central Station,12.0,7.0,False
+T0196,R05,R05_S01,West End,24.0,19.0,False
+T0196,R05,R05_S02,Garden Road,0.0,2.0,False
+T0197,R03,R03_S05,Central Station,23.0,31.0,False
+T0197,R03,R03_S03,Hospital,34.0,32.0,False
+T0197,R03,R03_S04,South Market,16.0,39.0,False
+T0197,R03,R03_S02,Lake Road,19.0,27.0,False
+T0198,R06,R06_S03,Metro Junction,48.0,30.0,False
+T0198,R06,R06_S04,Central Station,43.0,23.0,False
+T0199,R05,R05_S04,Old Town,,19.0,False
+T0199,R05,R05_S03,West Mall,35.0,25.0,False
+T0199,R05,R05_S05,Central Station,46.0,24.0,False
+T0200,R06,R06_S04,Central Station,8.0,2.0,False
+T0200,R06,,Airport Terminal,26.0,17.0,True
+T0200,R06,,Metro Junction,18.0,11.0,True
